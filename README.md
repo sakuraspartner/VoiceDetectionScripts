@@ -37,7 +37,11 @@ Add an Audio Move filter (called in my example "Voice Detected (Filter Enabler)"
 
 This filter will enable or disable based on the volume or activity level of the voice input.
 
+[filter1](OBS-AudioInput-Filter-1.png)
+
 Copy this filter and create a second Audio Move filter to control the visibility of the same source (in my example "Voice Detected (Filter Enabler)").
+
+[filter2](OBS-AudioInput-Filter-2.png)
 
 # Step 3: Set up Streamer Bot
 
