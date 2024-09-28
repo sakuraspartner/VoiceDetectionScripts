@@ -1,6 +1,8 @@
 # VoiceDetectionScripts
 Integrate OBS with Streamer Bot to detect sound and pause / resume content
 
+![example](example.mp4)
+
 # Step 1: Set Up the Scene and Source
 
 ![Scene](OBS-Scene.png)
