@@ -3,6 +3,8 @@ Integrate OBS with Streamer Bot to detect sound and pause / resume content
 
 # Step 1: Set Up the Scene and Source
 
+![Scene](OBS-Scene.png)
+
 ## Create a Scene:
 
 In OBS, navigate to the Scenes section and click the "+" button to create a new scene. You can name it something like "VoiceDetectionScene".
