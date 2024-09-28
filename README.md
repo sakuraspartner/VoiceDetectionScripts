@@ -30,6 +30,8 @@ Open the filters for the Mic/Aux or your audio input by right-clicking on the so
 
 In the Audio Filters tab:
 
+Move Transitions are a plugin, that can be downloaded here: https://obsproject.com/forum/resources/move-transition.913/download
+
 Add an Audio Move filter (called in my example "Voice Detected (Filter Enabler)").
 - Meter Type: Set to "Magnitude."
 - Easing: Adjust to your preference (90.00 is used in the screenshot).
